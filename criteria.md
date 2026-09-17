@@ -55,7 +55,9 @@ in at least 4 of 5 tries.
 
 ---
 
-## 4. Something about your chunks
+## 4. The chunks are comprehensive and if necessary, reference retrievable chunks. 
+
+The chunk should contain complete ideas and be able to follow up with more information later if necessary. 
 
 <!-- YOU WRITE THIS ONE.
 
@@ -73,11 +75,13 @@ in at least 4 of 5 tries.
 
 **Why this target:**
 
-
+This will make sure the results are grounded and ensure there is a line of thought established in retrieval.
 
 ---
 
-## 5. Your choice
+## 5. If the response is taking too long, add some sort of loading message to improve transparency.
+
+People want to know what they are waiting for and this provides a good user experience. 
 
 <!-- YOU WRITE THIS ONE TOO.
 
@@ -91,7 +95,7 @@ in at least 4 of 5 tries.
 
 **Why this target:**
 
-
+Users will be able to understand the process and why it takes so long. 
 
 ---
 
